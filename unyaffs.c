@@ -50,6 +50,7 @@
 #define HAS_LUTIMES 1
 #endif
 
+#include <sys/sysmarcos.h>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
